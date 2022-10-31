@@ -1,0 +1,1 @@
+# Opening bracket somewhere in the program, likely when creating a hash.
